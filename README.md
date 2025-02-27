@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Java and .Net.
 - 💞️ I’m looking to collaborate on React/Next task long term.
 - 📫 How to reach me : dark810moon@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love coding...
 
 <!---
 darkmoon810/darkmoon810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Taqui+Imam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dark+Moon!;" />
 </h1>
 
 <h3 align="center">A passionate software developer and tech Blog writer from India</h3>
@@ -28,9 +26,7 @@ You can click the Preview link to take a look at your changes.
 
  📚 Write's Blogs at **[Dev.to](https://dev.to/random_ti)** and **[Hashnode](https://mdtaquiimam.hashnode.dev/)**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/taqui-786/taqui-786/issues)**
-
- ⚡ Fun fact **World first developer was a women**
+ ⚡ Fun fact **My nickname was a Tarzan**
  
  </div>
  
@@ -38,12 +34,9 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:mdtaqui.jhar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-      <a href="https://twitter.com/Taquiimam14" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://linkedin.com/in/taqui-imam" target="_blank">
+  <--<a href="https://linkedin.com/in/taqui-imam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  </a>!-->
   <a href="https://tinyurl.com/MdTaquiImam" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
