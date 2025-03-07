@@ -41,6 +41,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 
  <hr/>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<p align="center">
+  <img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+  <img align="center" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+  <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
+</p>
+
+ <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
