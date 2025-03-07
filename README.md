@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
  <hr/>
-
+<h2 align="center">⚒️ My Work Style ⚒️</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="center">
   <img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
