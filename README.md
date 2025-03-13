@@ -29,13 +29,13 @@ You can click the Preview link to take a look at your changes.
  </div>
  
 <div align="center"> 
-  <a href="mailto:mdtaqui.jhar@gmail.com">
+  <a href="mailto:dark810moon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/taqui-imam" target="_blank">
+  <a href="https://linkedin.com/in/darkmoon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tinyurl.com/MdTaquiImam" target="_blank">
+  <a href="https://darkmoonportfolio.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/darkmoon810/darkmoon810/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 <br>
 <div align=center>
