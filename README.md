@@ -46,9 +46,12 @@
 </div>
 
 
+<div align="center">
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AI Model Deployment](https://img.shields.io/badge/AI%20Model%20Deployment-Docker%20%7C%20Kubernetes-blue?style=for-the-badge&logo=docker&logoColor=white)
+</div>
+
 
 <div align="center"> 
   <a href="mailto:dark810moon@gmail.com">
