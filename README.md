@@ -1,24 +1,4 @@
 <hr/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dark+Moon!;" />
-</h1>
-
-<h3 align="center">A passionate web fullstack developer</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a Nexjs Projects**
- 
- 🌱 I’m currently learning **C++,Typescript and Java**
-
- ⚡ Fun fact **My nickname was Tarzan**
- 
-</div>
-
-<hr/>
 <div align="center">
     
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?style=for-the-badge&logo=github)
