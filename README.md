@@ -19,8 +19,11 @@
 </div>
 
 <hr/>
-
+<div align="center">
+    
 ![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?style=for-the-badge&logo=github)
+
+</div>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Chatbot](https://img.shields.io/badge/AI%20Chatbot-Enabled-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white)
