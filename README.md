@@ -8,11 +8,12 @@
 darkmoon810/darkmoon810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmoon810&theme=dark" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmoon810&layout=compact" />
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=darkmoon810&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=darkmoon810&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=darmoon810&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dark+Moon!;" />
@@ -62,15 +63,6 @@ You can click the Preview link to take a look at your changes.
 <img  src="https://raw.githubusercontent.com/darkmoon810/darkmoon810/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=taqui-786&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=taqui-786&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=taqui-786&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-![Quickdraw Badge](<img src="https://img.shields.io/badge/Quickdraw-%E2%9C%94-green" />)
-![YOLO Badge](https://img.shields.io/badge/YOLO-%E2%9C%94-green)
-![Pull Shark Badge](https://img.shields.io/badge/Pull%20Shark-%E2%9C%94-green)
 
 <br/><br/>
 <hr/>
