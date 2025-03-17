@@ -85,6 +85,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felix422-master&theme=dark" height="165">
 </p>
 
+## 🌟 **Top Technologies**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix422-master&layout=compact&theme=dark">
+</p>
+
 <hr/>
 
 
