@@ -9,6 +9,8 @@ darkmoon810/darkmoon810 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<hr/>
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Chatbot](https://img.shields.io/badge/AI%20Chatbot-Enabled-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
@@ -24,6 +26,30 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AI Model Deployment](https://img.shields.io/badge/AI%20Model%20Deployment-Docker%20%7C%20Kubernetes-blue?style=for-the-badge&logo=docker&logoColor=white)
 
+
+<hr/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-00A67E?style=for-the-badge&logo=openai&logoColor=white)  
+![AI Chatbot](https://img.shields.io/badge/@darkmoon810%20AI%20Chatbot-Active-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/@darkmoon810%20Generative%20AI-Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)  
+
+![React Chatbot](https://img.shields.io/badge/@darkmoon810%20React%20Chatbot-Built%20with%20React-blue?style=for-the-badge&logo=react)  
+![Node.js AI](https://img.shields.io/badge/@darkmoon810%20Node.js%20AI-Backend%20Processing-brightgreen?style=for-the-badge&logo=nodedotjs)  
+![Python AI](https://img.shields.io/badge/@darkmoon810%20Python%20AI-Machine%20Learning-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+
+![AI Automation](https://img.shields.io/badge/@darkmoon810%20AI%20Automation-Enabled-FF4081?style=for-the-badge&logo=automation&logoColor=white)  
+![API Integration](https://img.shields.io/badge/@darkmoon810%20API%20Integration-Seamless-orange?style=for-the-badge&logo=api&logoColor=white)  
+![Airtable](https://img.shields.io/badge/@darkmoon810%20Airtable%20Automation-yellow?style=for-the-badge&logo=airtable&logoColor=black)  
+
+![GitHub Actions](https://img.shields.io/badge/@darkmoon810%20GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![AI Model Deployment](https://img.shields.io/badge/@darkmoon810%20AI%20Model%20Deployment-Docker%20%7C%20Kubernetes-blue?style=for-the-badge&logo=docker&logoColor=white)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkmoon810&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darkmoon810&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkmoon810&layout=compact&theme=dark)  
+
+
+<hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dark+Moon!;" />
