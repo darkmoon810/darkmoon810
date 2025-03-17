@@ -81,8 +81,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkmoon810&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmoon810&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkmoon810&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmoon810&theme=tokyonight" height="165">
 </p>
 
 ## 🌟 **Top Technologies**
