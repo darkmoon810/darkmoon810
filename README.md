@@ -79,17 +79,11 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-<img  src="https://raw.githubusercontent.com/darkmoon810/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-<br/>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=darkmoon810&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=darkmoon810&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmoon810&layout=compact&theme=react&count_private=true" alt="top langs" />
-</div>
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felix422-master&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felix422-master&theme=dark" height="165">
+</p>
 
 <hr/>
 
