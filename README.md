@@ -38,7 +38,8 @@ You can click the Preview link to take a look at your changes.
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<br/>
+<img align="center" scr="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
