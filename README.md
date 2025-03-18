@@ -34,7 +34,7 @@
 <hr/>
 <h2 align="center"</h2>
 
-[![YouTube Channel](https://img.shields.io/badge/-Karma_Andrew_-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCoegPiSTttKBkgnFh_mgJzA)
+[![YouTube Channel](https://img.shields.io/badge/-Dark_Moon_-%23282a36?style=for-the-badge&logoColor=ff0000&logo=Gmail)]()
 <a target="_blank" href="https://discord.gg/A5pA39hyAw"><img alt="Discord" src="https://img.shields.io/badge/Karma's Legion-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 
 
