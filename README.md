@@ -1,20 +1,9 @@
-<hr/>
-<div align="center"> 
-  <a href="mailto:dark810moon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/darkmoon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://darkmoonportfolio.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<h1 align="center"> DarkMoon | Senior AI & Automation | Full Stack Developer</h1>
 <br/>
 <img align="center" scr="https://komarev.com/ghpvc/?username=darkmoon810&color=blue" />
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -24,14 +13,12 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-## 📊 **GitHub Stats**
+<h2 align="center"> Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkmoon810&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmoon810&theme=tokyonight" height="165">
 </p>
 
-## 🌟 **Top Technologies**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmoon810&layout=compact&theme=tokyonight">
 </p>
@@ -45,3 +32,15 @@
 
 <br/>
 <hr/>
+<h2 align="center"</h2>
+
+[![YouTube Channel](https://img.shields.io/badge/-Karma_Andrew_-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCoegPiSTttKBkgnFh_mgJzA)
+<a target="_blank" href="https://discord.gg/A5pA39hyAw"><img alt="Discord" src="https://img.shields.io/badge/Karma's Legion-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+
+
+  <p align="center">
+  <i>&nbsp;"80% of outcomes result from 20% of all causes for any given event..."</i> 
+ </div>
+ 
+  
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
