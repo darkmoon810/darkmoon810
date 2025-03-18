@@ -1,7 +1,24 @@
 <h1 align="center"> DarkMoon | Senior AI & Automation | Full Stack Developer</h1>
 <br/>
 <img align="center" scr="https://komarev.com/ghpvc/?username=darkmoon810&color=blue" />
- <hr/>
+<hr/>
+
+<p align="center">
+
+[![Website Badge](https://img.shields.io/badge/Website-Karma-blue?style=for-the-badge)](http://karma-andrew.somee.com/)
+  
+
+
+
+<p align="center">
+    <a href="https://discord.com/users/294857425922555905">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Karma _Andrew_%235753-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/vAndrewKarma">
+   <img alt="Github" src="https://img.shields.io/github/followers/vAndrewKarma?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+  
+  
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vAndrewKarma&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/vAndrewKarma)
+
  
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
@@ -34,7 +51,7 @@
 <hr/>
 <h2 align="center"</h2>
 
-[![YouTube Channel](https://img.shields.io/badge/-Dark_Moon_-%23282a36?style=for-the-badge&logoColor=ff0000&logo=Gmail)]()
+[![YouTube Channel](https://img.shields.io/badge/-Dark_Moon_-%23282a86?style=for-the-badge&logoColor=ff0000&logo=Gmail)]()
 <a target="_blank" href="https://discord.gg/A5pA39hyAw"><img alt="Discord" src="https://img.shields.io/badge/Karma's Legion-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 
 
