@@ -10,7 +10,7 @@
 
 
 
-<p align="center">
+<div align="center">
   
   [![Website Badge](https://img.shields.io/badge/Website-Karma-blue?style=for-the-badge)](http://karma-andrew.somee.com/)
   
@@ -18,7 +18,8 @@
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Karma _Andrew_%235753-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/vAndrewKarma">
    <img alt="Github" src="https://img.shields.io/github/followers/vAndrewKarma?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
-  
+
+</div>
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=vAndrewKarma&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/vAndrewKarma)
 
