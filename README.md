@@ -43,7 +43,7 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;I+am+runnig+for+catch+my+dream...;+Shoot+me+a+message!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
@@ -51,12 +51,9 @@
 <h2 align="center"</h2>
 
 [![YouTube Channel](https://img.shields.io/badge/-Dark_Moon_-%23282a86?style=for-the-badge&logoColor=ff0000&logo=Gmail)]()
-<a target="_blank" href="https://discord.gg/A5pA39hyAw"><img alt="Discord" src="https://img.shields.io/badge/Karma's Legion-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a target="_blank" href="https://discord.gg/A5pA39hyAw"><img alt="Discord" src="https://img.shields.io/badge/DarkMoon's Legion-%231DA1F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 
 
-  <p align="center">
-  <i>&nbsp;"I am runnig for catch my dream..."</i> 
- </div>
- 
+
   
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
