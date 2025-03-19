@@ -26,16 +26,6 @@
   [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=darkmoon810&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/darkmoon810)
 </div>
   
-
-
- 
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,chatgpt,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
-</div>
-
 <br/>
 <hr/>
 
