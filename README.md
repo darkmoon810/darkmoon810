@@ -5,11 +5,6 @@
 
 <p align="center">
 
-
-  
-
-
-
 <div align="center">
   
   [![Website Badge](https://img.shields.io/badge/Website-Karma-blue?style=for-the-badge)](http://karma-andrew.somee.com/)
