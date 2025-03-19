@@ -55,7 +55,7 @@
 
 
   <p align="center">
-  <i>&nbsp;"80% of outcomes result from 20% of all causes for any given event..."</i> 
+  <i>&nbsp;"I am runnig for catch my dream..."</i> 
  </div>
  
   
