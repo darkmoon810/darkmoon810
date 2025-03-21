@@ -6,8 +6,6 @@
 
 <div align="center">
   
-  [![Website Badge](https://img.shields.io/badge/Website-Karma-blue?style=for-the-badge)](http://karma-andrew.somee.com/)
-  
   <a href="https://discord.com/users/294857425922555905">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Dark_Moon_%235753-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/darkmoon810">
