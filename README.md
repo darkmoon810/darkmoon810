@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  <a href="https://discord.com/users/1352715314042900604">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Dark_Moon?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://discord.com/users/1344323116729503799">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Dark_Moon_%13632?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/darkmoon810">
    <img alt="Github" src="https://img.shields.io/github/followers/darkmoon810?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
 
