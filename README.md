@@ -18,11 +18,7 @@
 <h2 align="center"> Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkmoon810&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmoon810&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmoon810&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmoon810&layout=compact&theme=tokyonight" height="165">
 </p>
 
 <hr/>
