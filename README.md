@@ -12,11 +12,6 @@
    <img alt="Github" src="https://img.shields.io/github/followers/darkmoon810?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
 
 </div>
-
-<div align="center">
-
-  [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=darkmoon810&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/darkmoon810)
-</div>
   
 <br/>
 <hr/>
