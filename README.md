@@ -84,7 +84,14 @@
         <img src="https://skillicons.dev/icons?i=androidstudoi-dark" alt="androidstudio-dark" width="48" height="48" />
         <br>Android
       </td>
-      <!-- Add more items if needed -->
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=androidstudoi-dark" alt="androidstudio-dark" width="48" height="48" />
+        <br>Android
+      </td>
+    </tr>
+    <!-- Add more items if needed -->
   </table>
 </div>
 
