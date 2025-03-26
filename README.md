@@ -12,7 +12,10 @@
    <img alt="Github" src="https://img.shields.io/github/followers/darkmoon810?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
 
 </div>
-  
+
+
+<h2 align="center">Full-Stack Development</h2>
+
 <br/>
 
 <div align="center">
@@ -81,12 +84,6 @@
         <br>Node.js
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=androidstudoi-dark" alt="androidstudio-dark" width="48" height="48" />
-        <br>Android
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img src="https://skillicons.dev/icons?i=androidstudoi-dark" alt="androidstudio-dark" width="48" height="48" />
         <br>Android
       </td>
