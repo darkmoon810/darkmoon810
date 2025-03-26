@@ -18,23 +18,23 @@
 <table align="center">
   <tr>
       <td align="center" width="12.5%">
-        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/make.svg" alt="Make.com" height="65" width="65"  />
+        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/make.svg" alt="Make.com"width="65"  />
         <br>Make.com
       </td>
       <td align="center" width="12.5%">
-        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/N8n--Streamline-Simple-Icons.svg" alt="React" height="65" width="65" />
+        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/N8n--Streamline-Simple-Icons.svg" alt="React"width="65" />
         <br>n8n
       </td>
       <td align="center" width="12.5%">
-        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/zapier-svgrepo-com.svg" alt="Zapier" height="65" width="65" />
+        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/zapier-svgrepo-com.svg" alt="Zapier"width="65" />
         <br>zapier
       </td>
       <td align="center" width="12.5%">
-        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/airtable-svgrepo-com.svg" alt="React" height="65" width="65" />
+        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/airtable-svgrepo-com.svg" alt="React"width="65" />
         <br>Airtable
       </td>
       <td align="center" width="12.5%">
-        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/deepgram.svg" alt="React" height="65" width="65" />
+        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/deepgram.svg" alt="React"width="65" />
         <br>Deepgram
       </td>
     </tr>
