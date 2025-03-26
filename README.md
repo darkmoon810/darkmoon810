@@ -26,7 +26,7 @@
         <br>n8n
       </td>
       <td align="center" width="12.5%">
-        <img src="https://logosandtypes.com/alphabet/letter-m/make/" alt="React" width="65" height="65" />
+        <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/zapier-svgrepo-com.svg" alt="Zapier" width="65" height="65" />
         <br>zapier
       </td>
       <td align="center" width="12.5%">
