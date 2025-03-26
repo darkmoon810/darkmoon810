@@ -18,7 +18,23 @@
 <tr>
       <td align="center" width="12.5%">
         <img src="https://logosandtypes.com/alphabet/letter-m/make/" alt="React" width="65" height="65" />
-        <br>React
+        <br>Make.com
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://logosandtypes.com/alphabet/letter-m/make/" alt="React" width="65" height="65" />
+        <br>n8n
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://logosandtypes.com/alphabet/letter-m/make/" alt="React" width="65" height="65" />
+        <br>zapier
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://logosandtypes.com/alphabet/letter-m/make/" alt="React" width="65" height="65" />
+        <br>Airtable
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://logosandtypes.com/alphabet/letter-m/make/" alt="React" width="65" height="65" />
+        <br>Deepgram
       </td>
     </tr>
 
