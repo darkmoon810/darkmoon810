@@ -15,7 +15,7 @@
 
 <br/>
 <h2 align="center">AI Engineering</h2>
-<table>
+<table align="center">
   <tr>
       <td align="center" width="12.5%">
         <img src="https://github.com/darkmoon810/platform_stack_icons/blob/main/make.svg" alt="Make.com" height="65" width="65"  />
