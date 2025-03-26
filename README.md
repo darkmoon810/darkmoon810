@@ -15,7 +15,8 @@
 
 <br/>
 <h2 align="center">AI Engineering</h2>
-<tr>
+<table>
+  <tr>
       <td align="center" width="12.5%">
         <img src="https://logosandtypes.com/alphabet/letter-m/make/" alt="React" width="65" height="65" />
         <br>Make.com
@@ -37,7 +38,7 @@
         <br>Deepgram
       </td>
     </tr>
-
+</table>
 
 <br/>
 <h2 align="center">Full-Stack Development</h2>
