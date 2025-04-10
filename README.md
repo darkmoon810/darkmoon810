@@ -1,4 +1,4 @@
-<h1 align="center"> DarkMoon | Senior AI & Automation | Full Stack Developer</h1>
+<h1 align="center"> Senior AI & Automation | Full Stack Developer</h1>
 <br/>
 <img align="center" scr="https://komarev.com/ghpvc/?username=darkmoon810&color=blue" />
 
