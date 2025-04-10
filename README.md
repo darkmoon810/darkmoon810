@@ -14,7 +14,7 @@
 </div>
 
 <br/>
-<h2 align="center">AI Engineering</h2>
+<h2 align="center">Automation</h2>
 <table align="center">
   <tr>
       <td align="center" width="12.5%">
